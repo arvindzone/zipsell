@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/yongfook/zipsell)](https://repl.it/github/yongfook/zipsell)
 ![Zipsell intro](https://www.zipsell.org/images/PH/Poster1.png)
 
 # Zipsell
